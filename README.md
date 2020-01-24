@@ -57,10 +57,10 @@ A simple light box with some animation
        beGoneLightBox() //if the escape key is clicked the function beGoneLightBox will run and it will remove the whiteLight and backdrop
     	}
 	})
-}
+`}`
 
-for (var i = 0; i < lightboxLinks.length; i++) { //creates a for loop to run through all of lightBoxLinks to apply the letThereBeLightBox function to all of them
+`for (var i = 0; i < lightboxLinks.length; i++) { //creates a for loop to run through all of lightBoxLinks to apply the letThereBeLightBox function to all of them
 	lightboxLinks[i].addEventListener('click', letThereBeLightBox) //when clicked
-}
+}`
 
 															  
