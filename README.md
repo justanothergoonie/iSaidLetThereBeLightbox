@@ -5,6 +5,6 @@ A simple light box with some animation
 
 `let lightboxLinks = document.querySelectorAll('.lightboxify');// this uses querSelctorAll() to select all tags in HTML with a 
 
-							      // class of () and sets them to a string to be called on 
+							      // class of () and sets them to a string to be called on`
 
 															  
